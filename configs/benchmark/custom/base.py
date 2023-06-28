@@ -1,0 +1,1 @@
+custom = dict(type="CustomModel")

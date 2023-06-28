@@ -1,0 +1,71 @@
+{
+    "Eastern_France": [
+        "Montpellier_2018_UA.tif",
+        "Nimes_2018_UA.tif",
+        "Avignon_2018_UA.tif",
+        "Marseille_2018_UA.tif",
+        "Valence_2018_UA.tif",
+        "Saint-Etienne_2018_UA.tif",
+        "Lyon_2018_UA.tif",
+        "Beziers_2018_UA.tif"
+    ],
+    "Eastern_Spain": [
+        "Castellon_2018_UA.tif",
+        "Valencia_2018_UA.tif",
+        "Gandia_2018_UA.tif",
+        "Albacete_2018_UA.tif",
+        "Cuenca_2018_UA.tif"
+    ],
+    "Greece": [
+        "Larisa_2018_UA.tif",
+        "Volos_2018_UA.tif",
+        "Ioannina_2018_UA.tif",
+        "Patra_2018_UA.tif"
+    ],
+    "Northern_Spain": [
+        "Ponferrada_2018_UA.tif",
+        "Leon_2018_UA.tif",
+        "Oviedo_2018_UA.tif",
+        "Lugo_2018_UA.tif"
+    ],
+    "Sardinia": [
+        "Cagliari_2018_UA.tif",
+        "Sassari_2018_UA.tif"
+    ],
+    "Sicily": [
+        "Trapani_2018_UA.tif",
+        "Palermo_2018_UA.tif",
+        "Gela_2018_UA.tif",
+        "Ragusa_2018_UA.tif",
+        "Siracusa_2018_UA.tif",
+        "Catania_2018_UA.tif",
+        "Acireale_2018_UA.tif",
+        "Messina_2018_UA.tif"
+    ],
+    "Catalonia": [
+        "Manresa_2018_UA.tif",
+        "Igualada_2018_UA.tif",
+        "Perpignan_2018_UA.tif",
+        "Tarragona_2018_UA.tif",
+        "Girona_2018_UA.tif",
+        "Lleida_2018_UA.tif"
+    ],
+    "Central_Macedonia": [
+        "Thessaloniki_2018_UA.tif",
+        "Kavala_2018_UA.tif"
+    ],
+    "Corsica": [
+        // "Ajaccio_2018_UA.tif"
+    ],
+    "Ligury": [
+        "Genova_2018_UA.tif",
+        "LaSpezia_2018_UA.tif",
+        "Savona_2018_UA.tif"
+    ],
+    "Piedmont": [
+        // "Asti_2018_UA.tif",
+        // "Torino_2018_UA.tif",
+        // "Alessandria_2018_UA.tif",
+        // "Novara_2018_UA.tif"
+    ]
+}
