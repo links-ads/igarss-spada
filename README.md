@@ -1,5 +1,5 @@
 # SPADA
-Land Cover Segmentation with Sparse Annotations from Sentinel-2 Imagery.
+Dataset and code for the paper *Land Cover Segmentation with Sparse Annotations from Sentinel-2 Imagery* (IGARSS 2023).
 
 ![SPADA architecture](/assets/SPADA.png)
 
