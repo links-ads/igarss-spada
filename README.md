@@ -1,6 +1,12 @@
 # SPADA
 Dataset and code for the paper *Land Cover Segmentation with Sparse Annotations from Sentinel-2 Imagery* (IGARSS 2023).
 
+[![arXiv](https://img.shields.io/badge/arXiv-2306.16252-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2306.16252)
+
+> Dataset **Coming soon!**
+
+---------------
+
 ![SPADA architecture](/assets/SPADA.png)
 
 ![Qualitative example](/assets/example.jpg)
