@@ -33,7 +33,7 @@ pip install mmcv-full -f https://download.openmmlab.com/mmcv/dist/cu111/torch1.9
 pip install -e .
 ```
 
-## Tranining
+## Training
 
 Once the dataset is downloaded, create a soft link inside the `data` directory, it should be named `FuelMap`. You can use a custom name if you prefer, in that case however you will need to update the configuration files.
 
