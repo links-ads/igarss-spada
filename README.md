@@ -3,7 +3,8 @@ Dataset and code for the paper *Land Cover Segmentation with Sparse Annotations 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2306.16252-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2306.16252)
 
-> Dataset **Coming soon!**
+> [!NOTE]  
+> Dataset available at [hf.co/datasets/links-ads/spada-dataset](https://huggingface.co/datasets/links-ads/spada-dataset).
 
 ---------------
 
@@ -11,9 +12,6 @@ Dataset and code for the paper *Land Cover Segmentation with Sparse Annotations 
 
 ![Qualitative example](/assets/example.jpg)
 
-
-
-> Dataset coming soon!
 
 ## Bring me to the important bits
 
