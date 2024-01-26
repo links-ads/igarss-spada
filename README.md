@@ -55,3 +55,15 @@ $ CUDA_VISIBLE_DEVICES=... python tools/test.py <path_to_workdir_config.py> <pat
 ```
 
 If you have large images, use the [prepare_mosaic.ipynb](/tools/prepare_mosaic.ipynb) to tile the large files into 2048x2048 tiles.
+
+## Citing this work
+```bibtex
+@inproceedings{galatola2023land,
+  title={Land Cover Segmentation with Sparse Annotations from Sentinel-2 Imagery},
+  author={Galatola, Marco and Arnaudo, Edoardo and Barco, Luca and Rossi, Claudio and Dominici, Fabrizio},
+  booktitle={IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={6952--6955},
+  year={2023},
+  organization={IEEE}
+}
+```
